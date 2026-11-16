@@ -50,6 +50,7 @@ public final class SystemCheck {
     /** model code -> {make, name}. Owner's hmgapi.json "car" overrides it. */
     static final String[][] MODELS = {
         {"CVEV", "kia", "EV6"},
+        {"CEEV", "hyundai", "Ioniq 6"},
         {"NEEV", "hyundai", "Ioniq 5"},
         {"NEEV23", "hyundai", "Ioniq 5"},
         {"DL3", "kia", "K5"},
